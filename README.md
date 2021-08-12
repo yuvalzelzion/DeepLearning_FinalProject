@@ -9,4 +9,6 @@ Afterwards it also counts the numbers of apples in the image, and reporst the ri
   * A PowerPoint presantation of our project.
 * FinalProj.ipynb:
   * The code written in google Colab notebook.
+* ScreenRecording.mov:
+  * Screen recording of the program execution.
 
