@@ -7,4 +7,6 @@ Afterwards it also counts the numbers of apples in the image, and reporst the ri
 ## The files:
 * StageB_Gal_Raykin_308188853_Yuval_Zel-Zion_305768871.pptx:
   * A PowerPoint presantation of our project.
+* FinalProj.ipynb:
+  * The code written in google Colab notebook.
 
